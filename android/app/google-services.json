@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602122357235",
+    "project_id": "friendlyeats-76831",
+    "storage_bucket": "friendlyeats-76831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602122357235:android:b06434f3a35676d743ea86",
+        "android_client_info": {
+          "package_name": "com.example.simple_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602122357235-8c4s05eg7jcsttrd923d5kg39uh4kkp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfu_hFeXyQdjXEiGBILSys_nkakVT8D34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602122357235-8c4s05eg7jcsttrd923d5kg39uh4kkp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
